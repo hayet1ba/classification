@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Datasets
+*.csv
+*.h5
+*.hdf5
+*.npy
+
+# Logs, temp, OS files
+*.log
+.DS_Store
+.idea/
+*.ipynb_checkpoints/
