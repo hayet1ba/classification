@@ -299,7 +299,7 @@ callbacks = [
 history = model.fit(
     train_seq,
     validation_data=(X_val, y_val),
-    epochs=60,
+    epochs=10,
     callbacks=callbacks,
     verbose=1,
 )
